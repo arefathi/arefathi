@@ -2,6 +2,7 @@
 
 I am Arefat. I am a freelance developer and a student.
 I am currently working on #DigitalEthiopia for about a month now.
+I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a while now and This was my latest project for them, a Telegram bot [@lesanaibot](https://t.me/lesanaibot) using Lesan's API to translate Amharic and English.
 
 - 🔭 I’m currently working on some Docker side projects and React Native stuff.
 - 🌱 I’m currently learning Flutter and Go in my spare time. !Hard
