@@ -1,7 +1,8 @@
 ### Hi there, folks 👋
 
-I am Arefat. I am a freelance developer and a student.
-I am currently working on #DigitalEthiopia for about a month now.
+I am Arefat. I am a freelance developer and a MSc Student.
+Just graduated with BSc Degree in Computer Science and Engineering from Adama Science and Technology University.
+I have been working on #DigitalEthiopia this past year. I am currently working on my self 🔎
 I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a while now and This was my latest project for them, a Telegram bot [@lesanaibot](https://t.me/lesanaibot) using Lesan's API to translate Amharic and English.
 
 - 🔭 I’m currently working on some Docker side projects and React Native stuff.
@@ -22,3 +23,5 @@ I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a whi
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+
+
