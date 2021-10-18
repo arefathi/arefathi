@@ -10,7 +10,7 @@ I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a whi
 - 👯 I’m looking to collaborate on React builds, Firebase projects, or anything cool really...
 - 🤔 I’m looking for help with Docker, anyone?
 - 💬 Ask me about React, Front-end Dev, MERN, Python or C++.
-- 📫 How to reach me: [!Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)[!fb](https://www.facebook.com/arefat.hyeredin) [!Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)[!telegram](https://www.t.me/uAnon)[!gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[!gm](mailto:arefat.hyeredin@gmail.com)
+- 📫 How to reach me: ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)[Arefat Hyeredin](https://www.facebook.com/arefat.hyeredin) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [Shadow](https://www.t.me/ShadowX9)) or  [Anon](https://www.t.me/uAnon) ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Arefat Hyeredin](mailto:arefat.hyeredin@gmail.com)
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=arefathi&show_icons=true&count_private=true&theme=dark" width="450"></a>
@@ -41,7 +41,6 @@ I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a whi
 ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![CODEIGNITER](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![]()
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -49,8 +48,8 @@ I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a whi
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
 <details>
-  <summary>📃 Projects</summary>
-### Some of my latest and noteworthy projects:
+  <summary>📃 Checkout some of my projects and Demos below:</summary>
+Some of my latest and noteworthy projects:
 
 #### [Armazon](https://armazon-shop.web.app/) – an E-Commerce web application
 Developed an Amazon website clone with full e-commerce store functionality using React JS, Express JS, Material UI, Firebase and Stripe payment integration.
