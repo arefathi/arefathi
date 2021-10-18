@@ -47,27 +47,28 @@ I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a whi
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
-<details>
-  <summary>📃 Checkout some of my projects and Demos below:</summary>
-Some of my latest and noteworthy projects:
+### 📃 Checkout some of my project's demos here:
 
 #### [Armazon](https://armazon-shop.web.app/) – an E-Commerce web application
 Developed an Amazon website clone with full e-commerce store functionality using React JS, Express JS, Material UI, Firebase and Stripe payment integration.
 
-#### [BetochBnB](https://betochbnb.web.app/) – a house rental and reservation web application 
-Designed a front-end Airbnb website clone using React, Flexbox and Firebase.
+#### [Golgoole](https://golgoole.web.app/) – a Google clone web search application
+Developed a web search application that looks a lot like Google Search using Google custom search API, React, React Router, Context API, Flexbox and Firebase hosting.
+
+#### [Hule Film](https://hule-film.web.app/) – a Movie directory website
+Programmed a Hulu clone web application using React, TMDB API, Flip Move, Material UI, Flexbox and Firebase hosting that shows various movies and tv series with genre. 
 
 #### [COVID-19 Analytics Site](https://covid-19-analytics-5ebb6.web.app/)
 Built a COVID-19 Statistics application with filters by country, map and cases using React JS, Material UI and Leaflet. It was to commemorate the global pandemic lockdown period. 
 
+<details>
+  <summary>📃 More demos below:</summary>
+
 #### [Fakebook](https://fakebook-8379d.web.app/) – a front-end UI clone of Facebook
 Designed an interface replica of Facebook with google authentication and posting features using React, Material UI and Firebase.
-
-#### [Golgoole](https://golgoole.web.app/) – a Google clone web search application
-Developed a web search application that looks a lot like Google Search using Google custom search API, React, React Router, Context API, Flexbox and Firebase hosting. 
-
-#### [Hule Film](https://hule-film.web.app/) – a Movie directory website
-Programmed a Hulu clone web application using React, TMDB API, Flip Move, Material UI, Flexbox and Firebase hosting that shows various movies and tv series with genre. 
+  
+#### [BetochBnB](https://betochbnb.web.app/) – a house rental and reservation web application 
+Designed a front-end Airbnb website clone using React, Flexbox and Firebase.
 
 #### [The Gram](https://theigram.web.app/) – a Photo sharing site
 Built an Instagram-clone that has user authentication and users can share photos with caption  and comments. It was developed using React JS, Tailwind CSS and Firestore.
