@@ -26,37 +26,37 @@ I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a whi
 
 ### Some of my latest and noteworthy projects:
 
-#### Armazon – an E-Commerce web application
+#### [Armazon](https://armazon-shop.web.app/) – an E-Commerce web application
 Developed an Amazon website clone with full e-commerce store functionality using React JS, Express JS, Material UI, Firebase and Stripe payment integration.
 
-#### BetochBnB – a house rental and reservation web application 
+#### [BetochBnB](https://betochbnb.web.app/) – a house rental and reservation web application 
 Designed a front-end Airbnb website clone using React, Flexbox and Firebase.
 
-#### COVID-19 Analytics Site
+#### [COVID-19 Analytics Site](https://covid-19-analytics-5ebb6.web.app/)
 Built a COVID-19 Statistics application with filters by country, map and cases using React JS, Material UI and Leaflet. It was to commemorate the global pandemic lockdown period. 
 
-#### Fakebook – a front-end UI clone of Facebook
+#### [Fakebook](https://fakebook-8379d.web.app/) – a front-end UI clone of Facebook
 Designed an interface replica of Facebook with google authentication and posting features using React, Material UI and Firebase.
 
-#### Golgoole – a Google clone web search application
+#### [Golgoole](https://golgoole.web.app/) – a Google clone web search application
 Developed a web search application that looks a lot like Google Search using Google custom search API, React, React Router, Context API, Flexbox and Firebase hosting. 
 
-#### Hule Film – a Movie directory website
+#### [Hule Film](https://hule-film.web.app/) – a Movie directory website
 Programmed a Hulu clone web application using React, TMDB API, Flip Move, Material UI, Flexbox and Firebase hosting that shows various movies and tv series with genre. 
 
-#### The Gram – a Photo sharing site
+#### [The Gram](https://theigram.web.app/) – a Photo sharing site
 Built an Instagram-clone that has user authentication and users can share photos with caption  and comments. It was developed using React JS, Tailwind CSS and Firestore.
 
-#### TinderEth – a Tinder clone web application
+#### [TinderEth](https://tinder-eth.web.app/) – a Tinder clone web application
 Designed a tinder-like web application using the MERN stack with backend running MongoDB, Mongoose, NodeJS and ExpressJS with Heroku backend hosting.
 
-#### What’s up? – a WhatsApp-clone group chat web application
+#### [What’s up?](https://whatsup-ff287.web.app/) – a WhatsApp-clone group chat web application
 Developed a WhatsApp replica group chat application using React JS, NextJS, Firestore, Google Authentication and Firebase hosting.
 
-#### Accord – a channel based social forum web application
+#### [Accord](https://accord-chat.web.app/) – a channel based social forum web application
 Worked on a Redux application that is basically a channel based many to many chats’ application/forum built using React, Redux, Firebase, Firestore and Flexbox.
 
-#### iChat Beta – a socket-based group chat application
+#### [iChat Beta](https://ichatbeta.web.app/) – a socket-based group chat application
 Built a messenger clone group chat application with google authentication and chat rooms with Redux state management, React, Material UI and Firebase hosting.
 
 
