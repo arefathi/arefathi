@@ -35,28 +35,28 @@ Designed a front-end Airbnb website clone using React, Flexbox and Firebase.
 #### COVID-19 Analytics Site
 Built a COVID-19 Statistics application with filters by country, map and cases using React JS, Material UI and Leaflet. It was to commemorate the global pandemic lockdown period. 
 
-#### Fakebook – a front-end UI clone of Facebook					
+#### Fakebook – a front-end UI clone of Facebook
 Designed an interface replica of Facebook with google authentication and posting features using React, Material UI and Firebase.
 
-#### Golgoole – a Google clone web search application						    
+#### Golgoole – a Google clone web search application
 Developed a web search application that looks a lot like Google Search using Google custom search API, React, React Router, Context API, Flexbox and Firebase hosting. 
 
 #### Hule Film – a Movie directory website
 Programmed a Hulu clone web application using React, TMDB API, Flip Move, Material UI, Flexbox and Firebase hosting that shows various movies and tv series with genre. 
 
-#### The Gram – a Photo sharing site								    
+#### The Gram – a Photo sharing site
 Built an Instagram-clone that has user authentication and users can share photos with caption  and comments. It was developed using React JS, Tailwind CSS and Firestore.
 
-#### TinderEth – a Tinder clone web application						        	
+#### TinderEth – a Tinder clone web application
 Designed a tinder-like web application using the MERN stack with backend running MongoDB, Mongoose, NodeJS and ExpressJS with Heroku backend hosting.
 
 #### What’s up? – a WhatsApp-clone group chat web application
 Developed a WhatsApp replica group chat application using React JS, NextJS, Firestore, Google Authentication and Firebase hosting.
 
-#### Accord – a channel based social forum web application		
+#### Accord – a channel based social forum web application
 Worked on a Redux application that is basically a channel based many to many chats’ application/forum built using React, Redux, Firebase, Firestore and Flexbox.
 
-#### iChat Beta – a socket-based group chat application					    
+#### iChat Beta – a socket-based group chat application
 Built a messenger clone group chat application with google authentication and chat rooms with Redux state management, React, Material UI and Firebase hosting.
 
 
