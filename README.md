@@ -10,7 +10,7 @@ I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a whi
 - 👯 I’m looking to collaborate on React builds, Firebase projects, or anything cool really...
 - 🤔 I’m looking for help with Docker, anyone?
 - 💬 Ask me about React, Front-end Dev, MERN, Python or C++.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/arefat.hyeredin) | [Telegram](https://www.t.me/ShadowX9) | [GMail](mailto:arefat.hyeredin@gmail.com)
+- 📫 How to reach me: [Telegram](https://www.t.me/ShadowX9) | [Gmail](mailto:arefat.hyeredin@gmail.com) | [Skiff](mailto:arefat@skiff.com)
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=arefathi&show_icons=true&count_private=true&theme=dark" width="450"></a>
