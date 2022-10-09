@@ -5,6 +5,8 @@ Just graduated with BSc Degree in Computer Science and Engineering from Adama Sc
 I have been working on #DigitalEthiopia this past year. I am currently working on my self 🔎
 I have been freelancing for [Lesan AI](https://lesan.ai/services.html) for a while now and This was my latest project for them, a Telegram bot [@lesanaibot](https://t.me/lesanaibot) using Lesan's API to translate Amharic and English.
 
+<a href="https://app.daily.dev/arefat"><img src="https://api.daily.dev/devcards/84912a4166ae435989e9c1c650f010e0.png?r=czr" width="400" alt="Arefat's Dev Card"/></a>
+
 - 🔭 I’m currently working on some Docker side projects and React Native stuff.
 - 🌱 I’m currently learning Flutter and Go in my spare time. !Hard
 - 👯 I’m looking to collaborate on React builds, Firebase projects, or anything cool really...
